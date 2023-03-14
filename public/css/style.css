@@ -26,8 +26,8 @@ main {
 }
 
 .comment-box {
-    background: #586F7C;
-    color: whitesmoke;
+    background: lightgreen;
+    color: wheat;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -47,10 +47,10 @@ main {
 
 a:link {
     text-decoration: none;
-    background-color: #E0B0D5;
+    background-color: plum;
     margin-block: 17pt;
 }
 
 a:hover {
-    background-color: #D85EBC;
+    background-color: lightcoral;
 }
